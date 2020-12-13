@@ -1,3 +1,9 @@
+<html>
+<body>
+<h1> header example </h1>
+
+Php begin
+
 <?php
 $txt = "Hello world!";
 $x = 5;
@@ -9,3 +15,7 @@ echo $x;
 echo "<br>";
 echo $y;
 ?>
+
+</body>
+</html>
+
